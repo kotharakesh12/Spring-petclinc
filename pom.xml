@@ -454,14 +454,14 @@
     <id>releases</id>
     <name>Releasses</name>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://192.168.107.160:8081/nexus/content/repositories/releases/
+    <url>http://192.168.1.14:8081/nexus/content/repositories/releases/
   </repository>
 	
   <snapshotRepository>
     <id>snapshots</id>
     <name>Snapshots</name>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://192.168.107.160:8081/nexus/content/repositories/releases/
+    <url>http://192.168.1.14:8081/nexus/content/repositories/releases/
   </snapshotRepository>
 	  
 </distributionManagement>
